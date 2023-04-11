@@ -1667,6 +1667,7 @@ Subhajit Bera
 - [Harikrishnan Kannoth](https://github.com/hxrii)
 - [Ajay Anuragi](https://github.com/ajayanuragi)
 - [Jugal balaji](https://github.com/jugalbalaji97)
+- [Connor Auyong](https://github.com/con169)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Geoff Filippi](https://github.com/geofffilippi)
 - [Mahek Unnisa](https://github.com/mahekunnisa)
